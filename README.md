@@ -1,4 +1,5 @@
-# arduino_audio_pulse_to_midi_clock
+# Arduino audio pulse to midi-clock
+
 Convert audiopulse to midiclock with an Arduino Nano
 
 Takes an audio-input from a DAW (f.i. Ableton Live) and converts it into MidiClock, Start and Stop. 
