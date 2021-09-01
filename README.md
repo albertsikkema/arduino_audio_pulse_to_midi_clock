@@ -3,7 +3,7 @@
 Convert audiopulse to midiclock with an Arduino Nano
 
 Takes an audio-output from a DAW (f.i. Ableton Live) and converts it into MidiClock, Start and Stop.
-Resulting Clock is extremeley tight. Much better than Ableton's own midiclock out.
+Resulting Clock is extremely tight. Much better than Ableton's own midiclock out.
 
 Added to that a MIDI-in, so you can combine the created midiclock with other midimessages.
 
